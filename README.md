@@ -1,4 +1,4 @@
-![Screenshot](banner.png)
+![welcome banner](https://raw.githubusercontent.com/OskarAhl/OskarAhl/master/oskar_ahlroth.png)
 
 - ✨ I’m currently working on https://glitterly.app/
 - 💬 Ask me about Gatsby, JavaScript, React, FFmpeg, Sauna-ing
