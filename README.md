@@ -1,4 +1,4 @@
-## Hello! 👋
+## Hello! ✌️
 
 - ✨ I’m currently working on https://glitterly.app/
 - 💬 Ask me about Gatsby, JavaScript, FFmpeg, Sauna-ing
