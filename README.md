@@ -7,6 +7,6 @@
 
 ### Latest blog posts:
 - https://medium.com/better-programming/multiple-language-websites-with-gatsbyjs-b4985746b9eb
-- https://www.bitecodingbits.com/compose/
+- https://dev.to/oskarahl/ffmpeg-overlay-a-video-on-a-video-after-x-seconds-4fc9
 - https://www.bitecodingbits.com/laziness-thunks-and-streams/
 
