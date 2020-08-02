@@ -1,6 +1,6 @@
 ![welcome banner](https://raw.githubusercontent.com/OskarAhl/OskarAhl/master/banner.png)
 
-- ✨ I’m currently working on [Glitterly](https://glitterly.app/)
+- ✨ I’m currently working on [Glitterly](https://glitterly.app/) - more info: [Hacker news: Create and Share videos of your app](https://news.ycombinator.com/item?id=24017261)
 - 💬 Ask me about Gatsby, JavaScript, React, FFmpeg, Sauna-ing
 - 📫 How to reach me: oskar.ahlroth@gmail.com
 - 🚀 Fun fact: Climber of 3 volcanos, Speaker of 4 languages (🇸🇪🇫🇮🇰🇷🇺🇸), Lived (and worked) in Korea, Malaysia, Finland
