@@ -1,6 +1,6 @@
 ![welcome banner](https://raw.githubusercontent.com/OskarAhl/OskarAhl/master/banner.png)
 
-### ✨ Founder of [Glitterly](https://glitterly.app/)
+### ✨ Creator of [Glitterly](https://glitterly.app/)
 - [Hacker news: Create and Share videos of your app](https://news.ycombinator.com/item?id=24017261)
 - [Product Hunt: Glitterly - 4th Most loved product of the day](https://www.producthunt.com/posts/glitterly)
 
