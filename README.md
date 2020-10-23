@@ -1,8 +1,8 @@
 ### ✨ Creator of [Glitterly](https://glitterly.app/)
 - [Hacker news: Create and Share videos of your app](https://news.ycombinator.com/item?id=24017261)
-- [Product Hunt: Glitterly - 4th Most loved product of the day](https://www.producthunt.com/posts/glitterly)
+- [Product Hunt: Glitterly](https://www.producthunt.com/posts/glitterly)
 
-### Faq:
+### FAQ:
 - 💬 Ask me about Gatsby, JavaScript, React, FFmpeg, Sauna-ing
 - 📫 How to reach me: oskar.ahlroth@gmail.com
 - 🚀 Fun fact: Climber of 3 volcanos, Speaker of 4 languages (🇸🇪🇫🇮🇰🇷🇺🇸), Lived (and worked) in Korea, Malaysia, Finland
