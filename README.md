@@ -1,6 +1,6 @@
 ### FAQ:
 - ✨ Maker of [Glitterly](https://glitterly.app/) - [Google's Blog](https://developers.googleblog.com/2021/01/21-websites-and-apps-to-make-your-2021-better.html) - [Product Hunt: Glitterly](https://www.producthunt.com/posts/glitterly) - [Hacker news: Create and Share videos of your app](https://news.ycombinator.com/item?id=24017261)
-- 💬 Ask me about Gatsby, JavaScript, React, FFmpeg, Sauna-ing
+- 💬 Ask me about JavaScript, React, Sauna-ing
 - 📫 How to reach me: oskar.ahlroth@gmail.com
 - 🚀 Fun fact: Climber of 3 volcanos, Speaker of 4 languages (🇸🇪🇫🇮🇰🇷🇺🇸), Lived (and worked) in Korea, Malaysia, Finland
 
